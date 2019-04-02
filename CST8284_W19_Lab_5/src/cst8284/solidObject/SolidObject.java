@@ -1,3 +1,7 @@
+/* Course Name: CST8284 - Object Oriented Programming (Java)
+ Student Name: Forrester Hinds
+*/
+
 package cst8284.solidObject;
 
 public class SolidObject <T extends GeometricShape> {
